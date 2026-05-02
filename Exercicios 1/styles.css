@@ -135,7 +135,7 @@ body{
     margin: 0 auto;
 }
 
-.projetos-Java, .projetos-Python, .projetos-PHP:hover{
+.projetos-Java,.projetos-Python, .projetos-PHP{
     box-shadow: 0 10px 20px rgba(79,70,229,0.2);
     transform: translateY(-10px) scale(1.03);
 }
@@ -224,3 +224,17 @@ body{
     transform: translateY(-4px);
     box-shadow: 0 5px 15px rgba(79,70,229,0.4);
 }
+
+.Curso{
+    text-align: center;
+    font-size: 1rem;
+    color: var(--claro);
+}
+.Link-Java, .Link-Python{
+    text-align: center;
+    font-size: 1rem;
+    color: var(--claro);  
+    padding: 0.5rem 2rem;
+}
+
+
